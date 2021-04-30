@@ -1,7 +1,7 @@
 {
-  "name": "laravel/laravel",
+  "name": "mexzziv/PetAPI",
   "type": "project",
-  "description": "The Laravel Framework.",
+  "description": "API like a OpenAPI-Specification",
   "keywords": [
     "framework",
     "laravel"
