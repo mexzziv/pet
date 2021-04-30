@@ -5,7 +5,7 @@ La API esta desarrollada en Laravel en su versión 7x, utilizando MySQL como ges
 Para su instalación puede clonar el repositorio en https://github.com/mexzziv/pet o con el comando
 
 ```
-composer required mexzziv/PetAPI
+composer required mexzziv/pet-api
 ```
 
 Cuando termine la imputación modifica el nombre del archivo .env.example a .env para que el proyecto detecte las variables de entorno.
