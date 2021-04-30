@@ -10,6 +10,11 @@ composer required mexzziv/pet-api
 
 Cuando termine la imputación modifica el nombre del archivo .env.example a .env para que el proyecto detecte las variables de entorno.
 
+Una vez cambiado el nombre del .env ejecutar el siguiente comando para generar la llave de Encriptado
+```
+php artisan key:generate
+```
+
 ### Inicializar proyecto
 
 Para la integración de tu base de datos modifica el archivo .env en las siguientes lineas:
